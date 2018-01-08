@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/cdaringe/ampersand-state-mixin-datatype-function",
   "devDependencies": {
-    "ampersand-state": "^4.5.3",
+    "ampersand-state": "^5.0.3",
     "pre-commit": "^1.0.6",
     "tape-suite": "^0.2.1",
-    "testem": "^0.8.0-0"
+    "testem": "^1.18.4"
   }
 }
