@@ -1,4 +1,6 @@
 # ampersand-state-mixin-datatype-function
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/cdaringe/ampersand-state-mixin-datatype-function.svg)](https://greenkeeper.io/)
 Adds the function datatype to ampersand-state
 
 You may want to specify something like the following in your ampersand-states or ampersand-models:
